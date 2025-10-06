@@ -1,6 +1,7 @@
 import express from 'express';
 import dotenv from "dotenv";
 import fs from 'fs';
+import cors from 'cors';
 
 
 
@@ -10,6 +11,7 @@ let port = process.env.PORT;
 
 const app = express()
 app.use(express.json());
+app.use(cors())
 
 
 
