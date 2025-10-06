@@ -1,0 +1,38 @@
+[
+  {
+    "id": "111",
+    "name": "Annajappa",
+    "email": "annajappa.gadige@gmail.com",
+    "phone": 6304883173
+  },
+  {
+    "id": 1759741205044,
+    "name": "Greesh",
+    "email": "paramesh@gmail.com",
+    "phone": 7890345623
+  },
+  {
+    "id": 1759741969549,
+    "name": "Meghanath",
+    "email": "meghanath@gmail.com",
+    "phone": 9087564312
+  },
+  {
+    "id": 1759741989597,
+    "name": "Sunitha",
+    "email": "sunitha@gmail.com",
+    "phone": 8976340923
+  },
+  {
+    "id": 1759742006891,
+    "name": "Sulochana",
+    "email": "sulochana@gmail.com",
+    "phone": 9078345612
+  },
+  {
+    "id": 1759742029318,
+    "name": "dwaraka",
+    "email": "dwaraka@gmail.com",
+    "phone": 1234904567
+  }
+]
